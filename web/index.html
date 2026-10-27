@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#194d40">
+  <title>ENEM em Foco — seu espaço de estudos</title>
+  <meta name="description" content="Estude com as provas oficiais do ENEM, corrija suas respostas e aprenda com seus erros.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="#inicio"><img src="/favicon.svg" alt="" width="40" height="40"><span>enem<span class="brand-light">em foco</span></span></a>
+    <div class="workspace-tag"><span class="dot"></span> SEU ESPAÇO DE ESTUDOS</div>
+    <nav aria-label="Menu principal">
+      <a href="#inicio" data-nav="inicio"><span aria-hidden="true">◫</span> Visão geral</a>
+      <a href="#provas" data-nav="provas"><span aria-hidden="true">▤</span> Provas anteriores</a>
+      <a href="#videoaulas" data-nav="videoaulas"><span aria-hidden="true">▷</span> VideoAulas</a>
+      <a href="#erros" data-nav="erros"><span aria-hidden="true">✎</span> Caderno de erros</a>
+      <a href="#historico" data-nav="historico"><span aria-hidden="true">◷</span> Meu histórico</a>
+      <a href="#manual" data-nav="manual"><span aria-hidden="true">▥</span> Guia de estudos</a>
+    </nav>
+    <div class="sidebar-tip"><span class="tiny-label">UM PASSO POR VEZ</span><p>Consistência transforma<br>esforço em conquista.</p><div class="tip-line"></div><span>Aprenda. Pratique. Revise.</span></div>
+    <div class="profile"><div class="avatar">E</div><div><strong>Meu espaço</strong><small>Preparação ENEM 2026</small></div></div>
+  </aside>
+  <main>
+    <header class="topbar"><span>Meu caminho até a universidade</span><span class="edition">ENEM <b>2026</b> <span class="dot"></span></span></header>
+    <div id="app" aria-live="polite"><div class="loading">Preparando seu espaço de estudos…</div></div>
+    <footer>Feito para aprender, uma questão de cada vez. <span>Provas oficiais · Inep</span></footer>
+  </main>
+  <div id="toast" role="status" class="toast" hidden></div>
+  <dialog id="start-dialog"><form id="start-form"><span class="eyebrow">VAMOS PRATICAR</span><h2 id="dialog-title">Sua próxima prova</h2><p>O gabarito aparece depois que você finalizar a tentativa.</p><label for="language">Língua estrangeira</label><select id="language"><option value="ingles">Inglês</option><option value="espanhol">Espanhol</option></select><p class="muted">Suas respostas ficam salvas automaticamente neste computador.</p><div class="dialog-actions"><button type="button" class="button secondary" id="cancel-start">Voltar</button><button class="button primary" type="submit">Começar prova <span>→</span></button></div></form></dialog>
+  <dialog id="finish-dialog"><span class="eyebrow">ENCERRAR TENTATIVA</span><h2>Pronto para corrigir?</h2><p id="finish-description"></p><p class="muted">Depois da correção, esta tentativa fica disponível para consulta. Você pode começar outra quando quiser.</p><div class="dialog-actions"><button id="cancel-finish" class="button secondary">Continuar estudando</button><button id="confirm-finish" class="button primary">Finalizar e corrigir</button></div></dialog>
+  <dialog id="video-dialog" aria-labelledby="video-dialog-title">
+    <div class="video-dialog-header"><span class="eyebrow">TEMPO DE APRENDER</span><button id="close-video" class="button secondary" aria-label="Fechar vídeo">✕</button></div>
+    <h2 id="video-dialog-title"></h2><p id="video-teacher"></p>
+    <div id="video-player" class="video-player"></div>
+    <p id="video-scope" class="muted"></p>
+    <div class="video-dialog-links"><a id="video-youtube" class="button primary" target="_blank" rel="noopener">Assistir no YouTube ↗</a><a id="video-source" class="text-button" target="_blank" rel="noopener">Página do autor ↗</a></div>
+    <p class="video-help">Se o player não carregar, use “Assistir no YouTube”. Os vídeos precisam de conexão com a internet.</p>
+  </dialog>
+</body>
+</html>

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+tmp/
+# Personal progress stays on this computer. The repository contains a clean catalog.
+data/*.sqlite3
+data/*.sqlite3-*
+*.db
+*.db-*
+.env
+.env.*
+!.env.example
+*.log
+dist/

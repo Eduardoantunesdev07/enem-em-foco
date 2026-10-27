@@ -1,0 +1,27 @@
+name: Testes da V1
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        python: ['3.10', '3.13']
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Criar banco pessoal com catálogo inicial
+        run: python -c "from app.storage import initialize; initialize()"
+      - name: Testar correção, catálogo, privacidade e endpoints
+        run: python -m unittest discover -s tests -v
+      - name: Conferir JavaScript
+        run: node --check web/app.js

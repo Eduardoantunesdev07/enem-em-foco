@@ -1,0 +1,130 @@
+{
+  "verified_on": "2026-10-27",
+  "selection": "Aulas de docentes identificados e correções publicadas pelos próprios canais de instituições de ensino. Títulos e canais conferidos pelo YouTube oEmbed; área e edição conferidas nas páginas dos autores. Não representa auditoria de cada explicação.",
+  "videos": [
+    {
+      "id": "correcao-2025-dia1", "youtube_id": "cKCx0eMRpEY", "kind": "correcao", "year": 2025, "day": 1,
+      "title": "ENEM 2025 · Linguagens e Ciências Humanas",
+      "original_title": "Correção Enem 2025 - Ao Vivo - 1º dia de prova | FTD Resolve",
+      "teacher": "Equipe de professores da FTD Educação", "channel": "FTD Educação", "channel_url": "https://www.youtube.com/@EditoraFTD",
+      "areas": ["linguagens", "humanas"], "topics": ["Correção do primeiro dia", "Redação"],
+      "description": "Transmissão integral de correção do primeiro dia, com comentários das duas áreas e da redação.",
+      "source_url": "https://portalconteudoaberto.com.br/enem-e-vestibular/enem-2025-correcao-do-1o-dia-de-prova/",
+      "scope_note": "Linguagens e Humanas compartilham esta transmissão. A numeração pode variar conforme a cor do caderno."
+    },
+    {
+      "id": "correcao-2025-dia2", "youtube_id": "R1su8HJ8boM", "kind": "correcao", "year": 2025, "day": 2,
+      "title": "ENEM 2025 · Natureza e Matemática",
+      "original_title": "Correção Enem 2025 - Ao Vivo - 2º dia de prova | FTD Resolve",
+      "teacher": "Equipe de professores da FTD Educação", "channel": "FTD Educação", "channel_url": "https://www.youtube.com/@EditoraFTD",
+      "areas": ["natureza", "matematica"], "topics": ["Biologia, Física e Química", "Matemática"],
+      "description": "Transmissão integral de correção do segundo dia, com explicações de Natureza e Matemática.",
+      "source_url": "https://portalconteudoaberto.com.br/enem-e-vestibular/enem-2025-correcao-do-2o-dia-de-prova/",
+      "scope_note": "Natureza e Matemática compartilham esta transmissão. Anulações posteriores são consideradas pelo gabarito oficial do sistema."
+    },
+    {
+      "id": "correcao-2024-dia1", "youtube_id": "m6ecXRQS2fM", "kind": "correcao", "year": 2024, "day": 1,
+      "title": "ENEM 2024 · Linguagens e Ciências Humanas",
+      "original_title": "Gabarito ENEM 2024 1º Dia – Correção de prova AO VIVO",
+      "teacher": "Equipe de professores do Estratégia Vestibulares", "channel": "Estratégia ENEM e Vestibulares", "channel_url": "https://www.youtube.com/@estrategiavestibulares",
+      "areas": ["linguagens", "humanas"], "topics": ["Correção do primeiro dia", "Redação"],
+      "description": "Gravação integral da correção do primeiro dia, comentada pelos professores do Estratégia.",
+      "source_url": "https://vestibulares.estrategia.com/portal/noticias/gabarito-enem-2024-correcao-do-1o-dia-de-prova/",
+      "scope_note": "Linguagens e Humanas compartilham esta transmissão. Localize a questão pelo enunciado se a cor do caderno for diferente."
+    },
+    {
+      "id": "correcao-2024-dia2", "youtube_id": "WBF1Ug_Nz4w", "kind": "correcao", "year": 2024, "day": 2,
+      "title": "ENEM 2024 · Natureza e Matemática",
+      "original_title": "Gabarito ENEM 2024 2º dia – Correção de prova AO VIVO",
+      "teacher": "Equipe de professores do Estratégia Vestibulares", "channel": "Estratégia ENEM e Vestibulares", "channel_url": "https://www.youtube.com/@estrategiavestibulares",
+      "areas": ["natureza", "matematica"], "topics": ["Biologia, Física e Química", "Matemática"],
+      "description": "Gravação integral da correção de Natureza e Matemática com a equipe de docentes do Estratégia.",
+      "source_url": "https://vestibulares.estrategia.com/portal/enem-e-vestibulares/enem/gabarito-enem-2024-correcao-2-dia/",
+      "scope_note": "Natureza e Matemática compartilham esta transmissão. A correção automática continua usando o gabarito oficial do Inep."
+    },
+    {
+      "id": "correcao-2023-dia1", "youtube_id": "adXd6SPJeKw", "kind": "correcao", "year": 2023, "day": 1,
+      "title": "ENEM 2023 · Linguagens e Ciências Humanas",
+      "original_title": "Gabarito ENEM 2023 1º dia – Correção de prova AO VIVO",
+      "teacher": "Equipe de professores do Estratégia Vestibulares", "channel": "Estratégia ENEM e Vestibulares", "channel_url": "https://www.youtube.com/@estrategiavestibulares",
+      "areas": ["linguagens", "humanas"], "topics": ["Correção do primeiro dia", "Redação"],
+      "description": "Gravação integral da correção das provas do primeiro dia, com comentários da equipe do Estratégia.",
+      "source_url": "https://vestibulares.estrategia.com/portal/enem-e-vestibulares/enem/gabarito-enem-2023-correcao-1-dia/",
+      "scope_note": "Linguagens e Humanas compartilham esta transmissão. A ordem das questões depende da cor do caderno usado pelos professores."
+    },
+    {
+      "id": "correcao-2023-dia2", "youtube_id": "BNBLT_9RwKU", "kind": "correcao", "year": 2023, "day": 2,
+      "title": "ENEM 2023 · Natureza e Matemática",
+      "original_title": "Gabarito ENEM 2023 2º dia – Correção de prova AO VIVO",
+      "teacher": "Equipe de professores do Estratégia Vestibulares", "channel": "Estratégia ENEM e Vestibulares", "channel_url": "https://www.youtube.com/@estrategiavestibulares",
+      "areas": ["natureza", "matematica"], "topics": ["Biologia, Física e Química", "Matemática"],
+      "description": "Gravação integral da correção do segundo dia com professores das disciplinas de Natureza e Matemática.",
+      "source_url": "https://vestibulares.estrategia.com/portal/enem-e-vestibulares/enem/gabarito-enem-2023-correcao-2-dia/",
+      "scope_note": "Natureza e Matemática compartilham esta transmissão. Anulações são tratadas pelo gabarito oficial na sua tentativa."
+    },
+    {
+      "id": "porcentagem", "youtube_id": "CERiIwParX4", "kind": "conteudo", "year": null, "day": null,
+      "title": "Porcentagem: teoria e exemplos", "original_title": "PORCENTAGEM: Teoria e Exemplos | Matemática Básica - Aula 29",
+      "teacher": "Professor Ferretto", "channel": "Professor Ferretto | ENEM e Vestibulares", "channel_url": "https://www.youtube.com/@professorferretto",
+      "areas": ["matematica"], "topics": ["Matemática básica", "Porcentagem"],
+      "description": "Reforce um dos pontos de partida do manual: compreender porcentagens e aplicá-las em problemas.",
+      "source_url": "https://www.youtube.com/watch?v=CERiIwParX4", "scope_note": "Depois da aula, resolva questões de porcentagem e registre suas dificuldades."
+    },
+    {
+      "id": "razao-proporcao", "youtube_id": "uIulBEk8gcM", "kind": "conteudo", "year": null, "day": null,
+      "title": "Razão e proporção: conceitos e propriedades", "original_title": "RAZÃO E PROPORÇÃO (Parte 1): Propriedades e Conceitos | Matemática Básica - Aula 24",
+      "teacher": "Professor Ferretto", "channel": "Professor Ferretto | ENEM e Vestibulares", "channel_url": "https://www.youtube.com/@professorferretto",
+      "areas": ["matematica"], "topics": ["Matemática básica", "Razão e proporção"],
+      "description": "Construa a base para interpretar relações entre grandezas, proporções e situações do cotidiano.",
+      "source_url": "https://www.youtube.com/watch?v=uIulBEk8gcM", "scope_note": "Esta é a primeira parte da aula de razão e proporção."
+    },
+    {
+      "id": "interpretacao", "youtube_id": "XsN0e_xPyNI", "kind": "conteudo", "year": null, "day": null,
+      "title": "Compreensão e interpretação de texto", "original_title": "Compreensão e Interpretação de Texto – Revisão ENEM [Prof. Noslen]",
+      "teacher": "Professor Noslen", "channel": "Professor Noslen", "channel_url": "https://www.youtube.com/@ProfessorNoslen",
+      "areas": ["linguagens"], "topics": ["Interpretação de texto", "Leitura"],
+      "description": "Trabalhe a leitura e a interpretação, habilidades centrais em Linguagens e nas outras áreas do exame.",
+      "source_url": "https://www.youtube.com/watch?v=XsN0e_xPyNI", "scope_note": "Leia os textos dos exercícios e tente responder antes de acompanhar a explicação."
+    },
+    {
+      "id": "ecologia", "youtube_id": "KKELP-3_Dlk", "kind": "conteudo", "year": null, "day": null,
+      "title": "Como a ecologia é cobrada no ENEM", "original_title": "Como ECOLOGIA é cobrada no ENEM | Prof. Paulo Jubilut",
+      "teacher": "Professor Paulo Jubilut", "channel": "Paulo Jubilut", "channel_url": "https://www.youtube.com/@paulojubilut",
+      "areas": ["natureza"], "topics": ["Biologia", "Ecologia"],
+      "description": "Revise ecologia e sua aplicação em questões ambientais, uma das prioridades de Biologia no manual.",
+      "source_url": "https://www.youtube.com/watch?v=KKELP-3_Dlk", "scope_note": "Relacione os conceitos com impactos ambientais e situações apresentadas na prova."
+    },
+    {
+      "id": "estequiometria", "youtube_id": "FV_hXHh3vNg", "kind": "conteudo", "year": null, "day": null,
+      "title": "Estequiometria: cálculos e questões", "original_title": "ESTEQUIOMETRIA, VOCÊ VAI ENTENDER TUDO !!!!",
+      "teacher": "Professor Michel", "channel": "Café com química - Prof Michel", "channel_url": "https://www.youtube.com/@profmichelquimica",
+      "areas": ["natureza"], "topics": ["Química", "Estequiometria"],
+      "description": "Estude as relações quantitativas das reações, incluindo reagentes, rendimento e pureza.",
+      "source_url": "https://www.youtube.com/watch?v=FV_hXHh3vNg", "scope_note": "Pause nos exercícios e organize as unidades antes de calcular."
+    },
+    {
+      "id": "corrente-eletrica", "youtube_id": "Zd4eECbE3OE", "kind": "conteudo", "year": null, "day": null,
+      "title": "Corrente elétrica e eletrodinâmica", "original_title": "CORRENTE ELÉTRICA | ELETRODINÂMICA | AULA 2 - Professor Boaro",
+      "teacher": "Professor Marcelo Boaro", "channel": "Professor Boaro", "channel_url": "https://www.youtube.com/@professorboaro",
+      "areas": ["natureza"], "topics": ["Física", "Eletricidade"],
+      "description": "Construa a base de eletricidade para avançar em circuitos, potência e consumo de energia.",
+      "source_url": "https://www.youtube.com/watch?v=Zd4eECbE3OE", "scope_note": "Esta aula faz parte da sequência de eletrodinâmica do professor."
+    },
+    {
+      "id": "era-vargas", "youtube_id": "jQU6Ojetq8M", "kind": "conteudo", "year": null, "day": null,
+      "title": "Era Vargas: contexto e acontecimentos", "original_title": "TUDO QUE VOCÊ PRECISA SABER SOBRE A ERA VARGAS: tá longo, mas vale a pena! (Débora Aladim)",
+      "teacher": "Débora Aladim", "channel": "Débora Aladim", "channel_url": "https://www.youtube.com/@deboraaladim",
+      "areas": ["humanas"], "topics": ["História do Brasil", "Era Vargas"],
+      "description": "Estude um dos temas de Brasil República destacados no manual e conecte contexto, política e sociedade.",
+      "source_url": "https://www.youtube.com/watch?v=jQU6Ojetq8M", "scope_note": "Monte uma linha do tempo e revise os conceitos após a aula."
+    },
+    {
+      "id": "projeto-redacao", "youtube_id": "PmpINY0fQ2w", "kind": "conteudo", "year": null, "day": null,
+      "title": "Como fazer um projeto de texto", "original_title": "O QUE É E COMO FAZER UM PROJETO DE TEXTO? REDAÇÃO ENEM",
+      "teacher": "Professora Luma — Luma e ponto", "channel": "Luma e ponto", "channel_url": "https://www.youtube.com/@lumaeponto",
+      "areas": ["redacao"], "topics": ["Redação", "Planejamento do texto"],
+      "description": "Planeje a tese e a argumentação antes de escrever sua redação dissertativa-argumentativa.",
+      "source_url": "https://www.youtube.com/watch?v=PmpINY0fQ2w", "scope_note": "Aplique o planejamento em uma redação completa e busque correção de um professor."
+    }
+  ]
+}
