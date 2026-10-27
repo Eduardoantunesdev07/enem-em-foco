@@ -1,5 +1,13 @@
 # Histórico de versões
 
+## 1.1.0 — 27/10/2026
+
+- Versão hospedada em `hosting/`, com o mesmo layout, provas e VideoAulas.
+- Correção e histórico executados no servidor, sem Python instalado no computador do visitante.
+- Banco Cloudflare D1 com separação de tentativas, respostas e anotações por navegador.
+- Testes da correção nos dois idiomas e do isolamento entre visitantes.
+- Site publicado com acesso público, sem login ou instalação, após autorização do proprietário.
+
 ## 1.0.0 — 27/10/2026
 
 Primeira versão para uso pessoal e local.

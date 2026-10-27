@@ -25,3 +25,13 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Conferir JavaScript
         run: node --check web/app.js
+
+  hosted-api:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Testar API da hospedagem e isolamento dos visitantes
+        run: node --test hosting/tests/study.test.mjs

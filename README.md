@@ -1,10 +1,16 @@
 # ENEM em Foco
 
-**V1.0.0** — sistema web de estudos para o ENEM, desenvolvido com Python, SQLite e JavaScript. Contém provas originais, resolução com salvamento automático, correção após entrega, histórico, caderno de erros e VideoAulas. O guia organiza as prioridades do manual de estudos.
+**V1.1.0** — sistema web de estudos para o ENEM, desenvolvido com Python, SQLite e JavaScript. Contém provas originais, resolução com salvamento automático, correção após entrega, histórico, caderno de erros e VideoAulas. O guia organiza as prioridades do manual de estudos.
 
 ![Painel do ENEM em Foco](output/previa-enem.png)
 
-## Abrir
+## Usar no navegador
+
+A versão online está em **https://enem-em-foco-estudos.eduardocamara2007.chatgpt.site**. O acesso é público e não exige login ou instalação. A aplicação funciona na hospedagem e não depende de manter um computador local ligado.
+
+O código da versão hospedada está em [`hosting/`](hosting/). Provas e vídeos são compartilhados; tentativas, respostas e anotações são separadas por navegador e salvas no banco da hospedagem. Ao limpar os cookies ou trocar de navegador, começa um novo espaço de estudos.
+
+## Executar a versão local
 
 Com Python 3.10 ou superior instalado, execute `iniciar.bat` ou `python server.py` nesta pasta e acesse **http://127.0.0.1:8126**. Mantenha a janela aberta enquanto usa o sistema. Para encerrar, pressione Ctrl+C.
 
